@@ -19,4 +19,3 @@ Let's build something reliable together. 🚀
 ### Contact me:
 - [Download my Resume](./Manning_2026_Resume.pdf)
 - [LinkedIn](https://www.linkedin.com/in/phoebemanning)
-- [Gmail](phoebe.manning8@gmail.com)
