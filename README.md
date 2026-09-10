@@ -17,5 +17,6 @@ Backend engineer who loves turning messy, real-world problems into clean, observ
 Let's build something reliable together. 🚀
 
 ### Contact me:
-[LinkedIn](https://www.linkedin.com/in/phoebemanning)
-[Gmail](phoebe.manning8@gmail.com)
+- [Download my Resume](path/to/resume.pdf)
+- [LinkedIn](https://www.linkedin.com/in/phoebemanning)
+- [Gmail](phoebe.manning8@gmail.com)
